@@ -1,2 +1,2 @@
 # deep-learning-model-in-game-environment
-Creating and adapting environment of the platform game to apply reinforcement learning methods. Training the agent using open source libraries that implementing reinforcement learning algorithms.
+Environment of the platform game adapted to apply reinforcement learning methods. Agent trained with open source libraries that implementing reinforcement learning algorithms.
